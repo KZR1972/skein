@@ -1,1 +1,1 @@
-# skein
+-o stratum+tcp://bestminer.eu:<4933> -u <0xD2dB9BDe6ed5E68774412e055f105A0468CDbaBC> [-p <X>]
